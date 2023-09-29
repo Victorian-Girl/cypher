@@ -8,3 +8,5 @@ Otherwise, the text will no longer be decrypted.
 - menu.py was the first version with terminal use.
 - Gui2.py is the new version with a graphical interface.
 - adding Javanese and other options.
+- Also, the use of REGEX for the Javanese
+- Have fun
