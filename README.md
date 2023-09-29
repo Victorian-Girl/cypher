@@ -1,7 +1,7 @@
 # cypher
 A Cesard and Javanese Cypher 
 
-A ceremonial and Javanese cypher.
+A Cesard and Javanese Cypher.
 you can mix the 2, but memorize the order to be able to go back.
 Otherwise the text will no longer be decipherable.
 
